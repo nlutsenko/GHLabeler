@@ -1,0 +1,39 @@
+# Code Review
+- :name: accepted
+  :color: 92e487
+- :name: needs review
+  :color: ff8787
+- :name: needs revision
+  :color: 9fc5ff
+
+# Categories
+- :name: bug
+  :color: fc2929
+- :name: enhancement
+  :color: 207de5
+- :name: feature
+  :color: 592fd2
+- :name: discussion
+  :color: eeeeee
+- :name: question
+  :color: cc317c
+- :name: documentation
+  :color: 35a6b3
+
+# Bugs
+- :name: needs more info
+  :color: ffeea9
+- :name: needs investigation
+  :color: ffd182
+- :name: unbreak now
+  :color: ff4e00
+- :name: wontfix
+  :color: ffffff
+
+# Misc
+- :name: help wanted
+  :color: 3cb92c
+- :name: good first task
+  :color: b692ff
+- :name: duplicate
+  :color: eeeeee
